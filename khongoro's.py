@@ -20,7 +20,8 @@ def calc_energy(img):
     return energy_map
     
     print('zuraggui bol ur dungui')
-    import numpy as np
+
+import numpy as np
 
 def sigmoid(x):
   # Идэвхжүүлэх Сигмоид функц: f(x) = 1 / (1 + e^(-x))
