@@ -19,7 +19,7 @@ def calc_energy(img):
     energy_map = convolved.sum(axis=2)
     return energy_map
     
-    print('zuraggui bol ur dungui')
+    print('zuraggui bol ur dungui to make a conflict') 
 
 import numpy as np
 
